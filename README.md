@@ -7,5 +7,5 @@ python server?? 无。<br>
 开发规划中...
 
    网-群：[ltyai.cn](https://ltyai.cn/qq)<br>
-      原项目：[ltyai.cn](https://github.com/Abc133123/LTYAI-ASI)<br>
+      原项目：[LTYAI-ASI](https://github.com/Abc133123/LTYAI-ASI)<br>
 
