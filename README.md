@@ -1,5 +1,4 @@
-# LTYAI-Agent
-<h2>洛天依AI同人-智能体助手</h2>
+# LTYAI-Agent洛天依AI同人-智能体助手
 洛天依AI基于现代AI技术制作的脚本 让你第一时间知道怎么实现LTYAI-ASI目标
 python → 电脑<br>
 C# → 电脑 手机 集成app<br>
