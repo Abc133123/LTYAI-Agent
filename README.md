@@ -7,4 +7,4 @@ python server?? 无。<br>
 开发规划中...
 
    网-群：[ltyai.cn](https://ltyai.cn/qq)<br>
-      原项目：[gitcode.com](https://gitcode.com/m0_67479857/LTYAI-ASI)
+      原项目：[gitcode.com]([https://gitcode.com/m0_67479857/LTYAI-ASI](https://github.com/Abc133123/LTYAI-ASI))
