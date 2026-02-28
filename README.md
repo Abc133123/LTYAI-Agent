@@ -110,4 +110,5 @@ Python。 你的智能体逻辑、LLM 调用、NLP 都在 Python，没必要绕 
 项目可能的结果示范：[douyin.com]([https://ltyai.cn/qq](https://www.douyin.com/user/self?modal_id=7607828809781983123)) <br>
    网-群：[ltyai.cn](https://ltyai.cn/qq)<br>
       原项目：[LTYAI-ASI](https://github.com/Abc133123/LTYAI-ASI)<br>
+            原项目文档-：[LTYAI-ASI](https://blog.csdn.net/m0_67479857/article/details/158494419?spm=1001.2014.3001.5501)<br>这是个概念宣言，意义只是让大家知道原来洛天依的粉丝有很多是群中二准程序员
 
