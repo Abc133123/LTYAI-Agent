@@ -23,5 +23,6 @@ https://blog.csdn.net/m0_67479857/article/details/156951198?spm=1001.2014.3001.5
 <br>
 3.我看看TTS怎么滴<br>
 用VITS-GPT吧，虽然很大，但是效果很好<br>
+https://blog.csdn.net/m0_67479857/article/details/157141190?spm=1001.2014.3001.5501<br>
 <br>
 4.让我学习部署达摩语音识别<br>
