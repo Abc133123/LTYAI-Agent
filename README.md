@@ -10,8 +10,8 @@ FBX模型<br>
 让我思考。。。。<br>
       原项目：[LTYAI-ASI](https://github.com/Abc133123/LTYAI-ASI)<br>
             原项目文档-：[LTYAI-ASI](https://blog.csdn.net/m0_67479857/article/details/158494419?spm=1001.2014.3001.5501)<br>这是个概念宣言，意义只是让大家知道原来洛天依的粉丝有很多是群中二准程序员
-
-python显示3d模型是个坑
-我们直接使用pmx
-1.将这个项目克隆到项目根目录
-https://github.com/shirobu2400/mmdpy
+<br>
+python显示3d模型是个坑<br>
+我们直接使用pmx<br>
+1.将这个项目克隆到项目根目录<br>
+https://github.com/shirobu2400/mmdpy<br>
