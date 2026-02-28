@@ -16,7 +16,8 @@ python显示3d模型是个坑<br>
 我们直接使用pmx<br>
 1.将这个项目克隆到项目根目录<br>
 https://github.com/shirobu2400/mmdpy<br>
-2.这个是自己训练微调模型的教程
-https://blog.csdn.net/m0_67479857/article/details/156951198?spm=1001.2014.3001.5502
-如果直接下载Dome是网络下载通义千问
-3.我看看TTS怎么滴
+<br>
+2.这个是自己训练微调模型的教程<br>
+https://blog.csdn.net/m0_67479857/article/details/156951198?spm=1001.2014.3001.5502<br>
+如果直接下载Dome是网络下载通义千问<br>
+3.我看看TTS怎么滴<br>
