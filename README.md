@@ -106,7 +106,8 @@ Python。 你的智能体逻辑、LLM 调用、NLP 都在 Python，没必要绕 
 或者帮你写一版 README + 部署文档模板？
 
 
-https://www.douyin.com/user/self?modal_id=7607828809781983123
+
+项目可能的结果示范：[douyin.com]([https://ltyai.cn/qq](https://www.douyin.com/user/self?modal_id=7607828809781983123<br>))
    网-群：[ltyai.cn](https://ltyai.cn/qq)<br>
       原项目：[LTYAI-ASI](https://github.com/Abc133123/LTYAI-ASI)<br>
 
