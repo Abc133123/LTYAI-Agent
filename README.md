@@ -17,6 +17,9 @@ python显示3d模型是个坑<br>
 1.将这个项目克隆到项目根目录<br>
 https://github.com/shirobu2400/mmdpy<br>
 <br>
+https://www.aplaybox.com/details/model/RdZFbueMhz0p<br>
+洛天依3D模型 by良笙君<br>
+<br>
 2.这个是自己训练微调LLM模型的教程<br>
 https://blog.csdn.net/m0_67479857/article/details/156951198?spm=1001.2014.3001.5502<br>
 如果直接下载Dome是网络下载通义千问<br>
