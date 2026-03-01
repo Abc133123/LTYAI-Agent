@@ -29,3 +29,17 @@ https://blog.csdn.net/m0_67479857/article/details/156951198?spm=1001.2014.3001.5
 https://blog.csdn.net/m0_67479857/article/details/157141190?spm=1001.2014.3001.5501<br>
 <br>
 4.让我学习部署达摩语音识别<br>
+哦，那个瞎写的，电脑没麦懒得搞<br>
+但是确实好用这个<br>
+<br>
+5.智能体行动框架（概念）<br>
+谷歌浏览器控制器程序<br>
+https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win64/chromedriver-win64.zip<br>
+其他用python自己的包(有的能用有的我记得浪费时间自己实践)<br>
+<br>
+6.当前进度<br>
+实现基础(显示)原型，所以没必要试<br>
+所有API没打通<br>
+我要回S21(红高-这里指衡高s3)<br>
+没时间，没空间（<br>
+
