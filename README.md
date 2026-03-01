@@ -36,6 +36,13 @@ https://blog.csdn.net/m0_67479857/article/details/157141190?spm=1001.2014.3001.5
 谷歌浏览器控制器程序<br>
 https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win64/chromedriver-win64.zip<br>
 其他用python自己的包(有的能用有的我记得浪费时间自己实践)<br>
+可以让LLM系统更加智能<br>
+本地微调为聊天基础<br>
+GLM（智普清言开放平台bigmodle什么的）调用LLM图像链接<br>
+智能体写代码<br>
+控制<br>
+或者百炼API打造提示词 记忆库 微调<br>
+但是需要API这些 不太有nb的感觉，但是他们确实才能真正厉害起来......<br>
 <br>
 6.当前进度<br>
 实现基础(显示)原型，所以没必要试<br>
